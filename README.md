@@ -64,7 +64,7 @@ git clone https://github.com/yourname/toolsbox-SHELL.git
 cd toolsbox-SHELL
 chmod +x menu.sh
 sudo ./menu.sh  # 需要root权限
-
+```
 ### 开发参考
 - 千峰刘杰老师：get-os-info.sh
 - CSDN: M乔木：QiaoMuOS-24-3-25.sh
