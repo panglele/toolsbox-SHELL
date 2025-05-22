@@ -68,3 +68,4 @@ sudo ./menu.sh  # 需要root权限
 ### 开发参考
 - 千峰刘杰老师：get-os-info.sh
 - CSDN: M乔木：QiaoMuOS-24-3-25.sh
+    url:https://blog.csdn.net/qiaomuv/article/details/135323900?fromshare=blogdetail&sharetype=blogdetail&sharerId=135323900&sharerefer=PC&sharesource=PeiDongQing&sharefrom=from_link
